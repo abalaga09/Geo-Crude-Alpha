@@ -77,6 +77,8 @@ dependencies:
   - pcre2=10.44=h99c9b8b_2
   - pillow=11.2.1=py312h078707f_0
   - pip=25.1=pyhc872135_2
+  - pip: 
+      -yfinance
   - pixman=0.46.2=had0cd8c_0
   - pthread-stubs=0.4=h0e40799_1002
   - pyparsing=3.2.3=pyhd8ed1ab_1
